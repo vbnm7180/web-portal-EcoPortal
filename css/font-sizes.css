@@ -1,0 +1,60 @@
+/*Стили шрифтов текста*/
+
+.text-Quarion {
+    font-family: Quarion, serif;
+}
+
+.text-25px-000 {
+    color: #000;
+    font-size: 25px;
+}
+
+.text-20px-000 {
+    color: #000;
+    font-size: 20px;
+}
+
+.text-20px-000-bold {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-18px-000 {
+    color: #000;
+    font-size: 18px;
+}
+
+.text-18px-fff {
+    color: #fff;
+    font-size: 18px;
+}
+
+.text-16px-000 {
+    color: #000;
+    font-size: 16px;
+}
+
+.text-18px-696969 {
+    color: #696969;
+    font-size: 18px;
+}
+
+.text-50px-fff-bold {
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.text-50px-000-bold {
+    color: #000;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.text-14px-696969 {
+    color: #696969;
+    font-size: 14px;
+}
+
+.text {}
